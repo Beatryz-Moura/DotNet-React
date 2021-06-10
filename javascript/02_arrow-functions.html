@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <title>Arrow functions</title>
+</head>
+
+<body>
+  <button class="btn" type="button">Click me</button>
+  <script>
+    const btn = document.querySelector('.btn')
+    btn.addEventListener('click', function (event) {
+      console.log(this)
+    })
+  </script>
+</body>
+
+</html>
