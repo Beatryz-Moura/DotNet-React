@@ -2577,11 +2577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\b.moura.de.brito\\Documents\\Projetos\\Curso FullStack .NET React\\DotNet-React\\backend\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Api.csproj",
+      "projectUniqueName": "C:\\Users\\b.moura.de.brito\\Documents\\Projetos\\Curso FullStack Cloud\\C#-React-Azure\\backend\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Api.csproj",
       "projectName": "Avanade.SubTCSE.Projeto.Api",
-      "projectPath": "C:\\Users\\b.moura.de.brito\\Documents\\Projetos\\Curso FullStack .NET React\\DotNet-React\\backend\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Api.csproj",
+      "projectPath": "C:\\Users\\b.moura.de.brito\\Documents\\Projetos\\Curso FullStack Cloud\\C#-React-Azure\\backend\\Avanade.SubTCSE.Projeto.Api\\Avanade.SubTCSE.Projeto.Api.csproj",
       "packagesPath": "C:\\Users\\b.moura.de.brito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\b.moura.de.brito\\Documents\\Projetos\\Curso FullStack .NET React\\DotNet-React\\backend\\Avanade.SubTCSE.Projeto.Api\\obj\\",
+      "outputPath": "C:\\Users\\b.moura.de.brito\\Documents\\Projetos\\Curso FullStack Cloud\\C#-React-Azure\\backend\\Avanade.SubTCSE.Projeto.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
