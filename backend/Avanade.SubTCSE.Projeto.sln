@@ -1,8 +1,22 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31112.23
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avanade.SubTCSE.Projeto.Api", "Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Api.csproj", "{A1D21F71-D6FC-4295-B4EE-56093D890C77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avanade.SubTCSE.Projeto.Api", "Avanade.SubTCSE.Projeto.Api\Avanade.SubTCSE.Projeto.Api.csproj", "{A1D21F71-D6FC-4295-B4EE-56093D890C77}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-AppService", "0-AppService", "{D43CA5B6-1AF0-4EF3-86C4-F8EA8B3E9AED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Application", "1-Application", "{87154D01-4700-4800-9ECD-2F559E2675EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{E62D50E6-6AE7-4E30-A64A-54584ECF141F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Infra", "3-Infra", "{6605A700-F0D1-431C-A4DC-418228FBBF10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Test", "4-Test", "{31ABC757-A80B-4588-A2CA-F410BE912F82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1-CrossCutting", "3.1-CrossCutting", "{56C8F1DF-B19E-4B68-A0CE-30F3FB433AEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2-Data", "3.2-Data", "{148288DC-5A3D-4CCA-99DC-89996436E5B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +31,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1D21F71-D6FC-4295-B4EE-56093D890C77} = {D43CA5B6-1AF0-4EF3-86C4-F8EA8B3E9AED}
+		{56C8F1DF-B19E-4B68-A0CE-30F3FB433AEC} = {6605A700-F0D1-431C-A4DC-418228FBBF10}
+		{148288DC-5A3D-4CCA-99DC-89996436E5B8} = {6605A700-F0D1-431C-A4DC-418228FBBF10}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F9DACFC6-26AF-4DD6-B6DC-DD3C9149CB2C}
