@@ -1,2 +1,2 @@
-# DotNet-React
-Curso Full-Stack de .NET + React
+
+Curso Full-Stack de C# + React + Azure
