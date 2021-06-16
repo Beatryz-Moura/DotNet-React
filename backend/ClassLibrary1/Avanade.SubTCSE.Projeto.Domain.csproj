@@ -4,4 +4,11 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Aggregates\EmployeeRule\Interfaces\Services\" />
+    <Folder Include="Aggregates\EmployeeRule\Interfaces\Repository\" />
+    <Folder Include="Aggregates\EmployeeRule\Validators\" />
+    <Folder Include="Aggregates\EmployeeRule\Services\" />
+  </ItemGroup>
+
 </Project>
