@@ -3,18 +3,35 @@
 
 Pré-requisitos:
 
-- NODE 
-  * Comandos para verificar se já possui instalado: 
-    `node --version`
-	  `npm --version`
+- NodeJs versão LTS
+  * Para instalar o NodeJs: https://nodejs.org/en/
+  * O NPM já vem junto do NodeJs
+  * Comandos para verificar se já possui instalado: `node --version` e `npm --version`
+- GIT
+  * Para instalar o Git: https://git-scm.com/downloads
+  * Comandos para verificar se já possui instalado: `git --version`
 - YARN
-  * Comandos para verificar se já possui instalado:
-  `yarn --version`
+  * É recomendado usar o NPM para instalar o Yarn, através do comando: `npm install --global yarn`
+  * Comandos para verificar se já possui instalado: `yarn --version`
+- Conta no GITHUB
+***
+- Browser: Microsoft EDGE
+- Windows Terminal
 - Visual Studio Code
-- Visual Studio 2019
-- .NET5 Framework
-
+- Visual Studio Professional 2019 - Com a licença aplicada
+- .NET5 SDK
 > Importante criar as aplicações do backend com o .NET5 para não haver erros nas novas funções.
+***
+- Docker Desktop - Com o WSL ativado
+- Postman
+- Robo 3T
+***
+- Acesso ao Portal do Azure com a subscription ativada
+- Azure Data Studio
+- Uma organização criada no Azure DevOps
+- Azure CLI
+***
+
 
 Opcional: 
 
