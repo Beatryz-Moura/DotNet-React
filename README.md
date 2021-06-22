@@ -22,14 +22,14 @@ Pré-requisitos:
 - .NET5 SDK
 > Importante criar as aplicações do backend com o .NET5 para não haver erros nas novas funções.
 ***
-- Docker Desktop - Com o WSL ativado
-- Postman
-- Robo 3T
-***
 - Acesso ao Portal do Azure com a subscription ativada
 - Azure Data Studio
 - Uma organização criada no Azure DevOps
 - Azure CLI
+***
+- Docker Desktop - Com o WSL ativado
+- Postman
+- Robo 3T
 ***
 
 
